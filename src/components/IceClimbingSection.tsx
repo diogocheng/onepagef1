@@ -23,7 +23,7 @@ export function IceClimbingSection() {
             Just standing on the glass-like surface was a challenge.
           </p>
           <h2 className="text-4xl md:text-5xl font-bold leading-tight">
-            Temperatures are extreme and documentation of the area is scant at best,
+            and documentation of the area is scant at best,
             making it difficult to find climbing sites. Finally, the first challenge:
             a cave. Or rather an art installation made of ice. This calls for an outfit change.
           </h2>
